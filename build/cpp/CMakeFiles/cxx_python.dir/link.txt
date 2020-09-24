@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cxx_python.dir/test.cpp.o  -o cxx_python  -lpython3.8 
